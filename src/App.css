@@ -1,0 +1,113 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+.box2:active{
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+}
+.box{
+  margin-left: 17rem;
+}
+ .box1{
+   text-align: center;
+   font-size: 2rem;
+   background-color: blanchedalmond
+ }
+ .toast-header .btn-close {
+  margin-right: -.375rem;
+  margin-left: 15.5rem !important;
+ }
+.box3{
+  font-size: 2rem;
+}
+
+.table{
+ margin-left:2-rem !important
+}
+.boxx{
+  margin-top:1rem;
+  margin-left: 65rem;
+}
+#table-scroll {
+  height:20rem;
+  overflow:auto;  
+  margin-top:20px;
+}
+.boo{
+  margin-left: 50rem;
+}
+.form{
+  width:50rem
+}
+.Dform{
+  
+  margin-top: 10px;
+  margin-left: 80px;
+  padding:20px;
+  border: solid ;
+  
+}
+.babu{ 
+  width: 40rem;
+ text-align: center;
+ height: 80px;
+}
+
+.box5{
+  margin-left: 700px;
+  font-size: 1.5rem;
+}
+
+.box4{
+  font-size: 1.5rem;
+}
+/* .khali{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin
+} */
+
+
+
+
